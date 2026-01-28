@@ -3,7 +3,8 @@
 </div>
 
   <a href="https://latebrix.engineer" target="_blank">
-    <img src="assets/website_button.svg" width="850" alt="Visit Website" />
+    <img src="assets/website_button.svg" width="650" alt="Visit Website" />
   </a>
 </div>
+
 
