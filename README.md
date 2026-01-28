@@ -1,1 +1,9 @@
-Hi there! I'm Mohamed - a high school student from Egypt. On the internet, I'm called LateBrix (You acn know more about my interests at latebrix.tech :)
+<div align="center">
+  <img src="assets/header.svg" width="850" alt="LateBrix Terminal Header" />
+</div>
+
+  <a href="https://latebrix.engineer" target="_blank">
+    <img src="assets/website_button.svg" width="850" alt="Visit Website" />
+  </a>
+</div>
+
