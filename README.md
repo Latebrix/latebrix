@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="assets/header.svg" width="850" alt="LateBrix Terminal Header" />
+  <img src="assets/header.svg" width="850" height="400" alt="LateBrix Terminal Header" />
 </div>
 
+<div align="center">
   <a href="https://latebrix.engineer" target="_blank">
-    <img src="assets/website_button.svg" width="650" alt="Visit Website" />
+    <img src="assets/website_button.svg" width="850" height="100" alt="Visit Website" />
   </a>
 </div>
-
-
