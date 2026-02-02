@@ -4,8 +4,9 @@
 
 <div align="center">
   <a href="https://latebrix.tech" target="_blank">
-    <img src="assets/website_button.svg" width="850" height="100" alt="Visit Website" />
+    <img src="assets/website_button_new.svg" width="850" height="100" alt="Visit Website" />
   </a>
 </div>
+
 
 
