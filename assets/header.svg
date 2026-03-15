@@ -42,7 +42,7 @@
         
         <!-- Welcome Message -->
         <text x="0" y="0" class="text title">hey, i'm Mohamed.</text>
-        <text x="0" y="25" class="text term-text">You can call me LateBrix.</text>
+        <text x="0" y="25" class="text term-text">You can also call me LateBrix.</text>
 
         <!-- Command Line 1 -->
         <text x="0" y="60" class="text term-text">
@@ -54,17 +54,17 @@
              <text x="0" y="0" class="text ascii" xml:space="preserve">  ,___,</text><text x="0" y="15" class="text ascii" xml:space="preserve">  [O.o]</text><text x="0" y="30" class="text ascii" xml:space="preserve">  /)__)</text><text x="0" y="45" class="text ascii" xml:space="preserve">--"--"--</text>
              
              <!-- Glitch Response Text -->
-             <text x="100" y="15" class="text term-text">Glitch says: He believes code is a choice.</text>
+             <text x="100" y="15" class="text term-text">Glitch says: He believes code is a bridge.</text>
              <text x="100" y="35" class="text term-text">He doesn't just build systems that run;</text>
              <text x="100" y="55" class="text term-text">he builds systems that <tspan fill="#4ade80">have a real impact</tspan></text>
         </g>
 
         <!-- Command Line 2 -->
         <text x="0" y="155" class="text term-text">
-            <tspan class="prompt">latebrix@github:~$</tspan> <tspan class="command">cat current_mission.txt</tspan>
+            <tspan class="prompt">latebrix@github:~$</tspan> <tspan class="command">cat current_focus.txt</tspan>
         </text>
         <text x="0" y="180" class="text term-text">
-             > Leading <tspan fill="#4ade80">MetrLoom</tspan> (Spreading Data Science among Students)
+             > I'm leading <tspan fill="#4ade80">MetrLoom</tspan> (Spreading Data Science among Students) + building Access Denied CTF
         </text>
 
         <!-- Command Line 3 (Active) -->
